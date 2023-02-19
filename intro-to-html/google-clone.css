@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.google-logo {
+  width: 300px;
+  display: inline-block;
+}
+
+.search {
+  display: inline-block;
+  width: 550px;
+  padding: 10px 30px;
+  margin-bottom: 30px;
+  border-radius: 30px;
+  font-size: 20px;
+  border: 1px solid lightgrey;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+button {
+  background-color: #eef0f0;
+  padding: 10px 20px;
+  border: none;
+  margin: 0 10px;
+  font-size: 20px;
+}
